@@ -1,4 +1,4 @@
-### Hi there 👋
+### ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Kanishka!
 
 <!--
 **Kanisa7/Kanisa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
