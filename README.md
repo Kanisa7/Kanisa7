@@ -1,5 +1,7 @@
 ###  Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Kanishka!
-
+### 🎓 I am currently pursuing my Bachelors in Computer Science & Engineering.
+💻 I am passionate about Android 📱 and am continuously trying to better myself at it.
+🌞 Fun Fact : When I am not coding I am either listening to music 🎵 or watching movies 🎬
 
 <br/>
 <p align="center">
